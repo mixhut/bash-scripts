@@ -1,0 +1,68 @@
+emergancy,emergency
+emwrgency,emergency
+apocolypse,apocalypse
+resistantm,resistant
+sog food,dog food
+vegiterian,vegetarian 
+vacuumsealing,vacuum sealing
+vhewy,chewy
+reviwes,reviews
+isbgood,is good
+invertabrates,invertebrates
+whese,where
+reliancr,reliance
+bisiness,business
+eqipment,equipment
+expirstion,expiration
+armigeddon,armageddon
+maufacturers,manufacturers
+moutain,mountain
+dehyrdator,dehydrator
+desicant,desiccant
+perserve,preserve
+licence,license
+storsge,storage
+fedder,feeder
+nere,near
+blueberrys,blueberries
+prepardness,preparedness
+resistantm,resistant
+wal mart,Walmart
+diy ,DIY 
+fda,FDA
+nasa ,NASA 
+ nasa, NASA
+ ebay, eBay
+ebay ,eBay 
+ gmo , GMO 
+ ok , OK 
+2010,2022
+2011,2022
+2012,2022
+2013,2022
+2014,2022
+2015,2022
+2016,2022
+2017,2022
+2018,2022
+2019,2022
+2020,2022
+2021,2022
+amaz0n,amazon
+& 39,'
+l.a.b analysis, lab analysis
+bbackpacking,backpacking
+spin off, spinoff
+where do i but ,where do i buy 
+what is the nest ,what is the best 
+hoe to ,how to 
+ to-go , to go 
+ild bay,old bay
+  , 
+##### Test out replacing these character hex codes (may have regex issues) #####
+&#39,s,'
+&amp;,&
+&lt;,<
+&gt;,>
+&quot;,\"
+&apos;,\'

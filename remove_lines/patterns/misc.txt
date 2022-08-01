@@ -1,0 +1,125 @@
+########## FILETYPES ETC ##########
+ pdf$
+ ppt$
+ mlm$
+ mp3
+ www 
+^www
+.net
+.com
+& 39
+ m$
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+########## MISC TERMS ##########
+ llc$
+employee
+food recall
+brexit
+people make
+venn diagram
+affiliate$
+affiliate program
+menu and pictures with price
+argosons
+argonne
+apolo
+astroanuta
+krojeni
+countdawn
+ mordor
+ meme$
+umpqua
+^proximate
+ Covid
+what color
+wind chime
+bear deterrent
+bears away
+Mormon 
+Mormons 
+get tattoo
+watch tv
+memory foam
+make pillow
+Testimonials
+on DofE
+tariff code
+#### FINANCIAL ####
+bitcoin
+ethereum
+cryptocurrency
+crypto 
+ crypto
+buy now pay later
+BNPL
+monthly payments
+ stand for 
+toxic metal
+lawsuit
+can I donate
+inflation
+bioplastics
+biodegradable
+packaging
+discontinued
+get paid
+How much cash
+the bank
+MLM
+########## TRAVEL ##########
+on a plane$
+on a plane 
+ plane$
+ plane?$
+airport security
+cabin baggage
+in my luggage
+checked baggage
+cabin baggage
+at Customs
+ to declare
+ airport
+ TSA
+ in space
+to the Moon
+the ISS
+sailboat
+on a boat
+sailing trip
+space food
+astronauts 
+spaceship
+########## REGIONAL ##########
+in french$
+in german$
+in dutch$
+in spanish$
+of China
+from China
+########## PEOPLE ##########
+Oprah Winfrey
+ Oprah 
+Dr Jeff 
+########## HEALTH ##########
+trimester
+for babies
+for baby
+for a baby
+for diabetic
+can diabetic
+healthy for you
+blood sugar
+pregnancy
+pregnant
+ poop
+the womb
+my baby
+drinking too much
+autism
+autistic
+famine

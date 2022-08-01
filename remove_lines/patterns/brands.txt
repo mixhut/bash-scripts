@@ -1,0 +1,36 @@
+########## BIG BRANDS ##########
+walmart
+wall mart
+wal mart
+woolies
+woolworths
+costco
+whole foods
+petsmart
+trader joe
+sams club
+Sam's 
+dicks sporting goods
+ tesco
+dollar general
+ coles$
+FedEx
+ UPS 
+USPS
+Chick Fil A
+########## ONLINE BRANDS ##########
+^ebay
+^e bay
+ebay$
+^etsy 
+amazon
+youtube
+wikipedia
+paypal
+academy com
+basspro com
+zero hedge
+mother earth news
+#mountain house 
+len penzo
+^heinz 

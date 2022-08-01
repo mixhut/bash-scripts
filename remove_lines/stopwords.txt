@@ -1,0 +1,561 @@
+########## BIG BRANDS ##########
+walmart
+wall mart
+wal mart
+woolies
+woolworths
+costco
+whole foods
+petsmart
+trader joe
+sams club
+Sam's 
+dicks sporting goods
+ tesco
+dollar general
+ coles$
+FedEx
+ UPS 
+USPS
+Chick Fil A
+########## ONLINE BRANDS ##########
+^ebay
+^e bay
+ebay$
+^etsy 
+amazon
+youtube
+wikipedia
+paypal
+academy com
+basspro com
+zero hedge
+mother earth news
+#mountain house 
+len penzo
+^heinz 
+######## US STATES LOWERCASE ########
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+######## US STATECODES REGEX EOL ########
+ al$
+ ak$
+ az$
+ ar$
+ ca$
+ co$
+ ct$
+ de$
+ fl$
+ ga$
+ hi$
+ id$
+ il$
+ in$
+ ia$
+ ks$
+ ky$
+ la$
+ me$
+ md$
+ ma$
+ mi$
+ mn$
+ ms$
+ mo$
+ mt$
+ ne$
+ nv$
+ nh$
+ nj$
+ nm$
+ ny$
+ nc$
+ nd$
+ oh$
+ ok$
+ or$
+ pa$
+ ri$
+ sc$
+ sd$
+ tn$
+ tx$
+ ut$
+ vt$
+ va$
+ wa$
+ wv$
+ wi$
+ wy$
+######## US CITIES LOWERCASE ########
+montgomery
+juneau
+phoenix
+little rock
+sacramento
+denver
+hartford
+dover
+tallahassee
+atlanta
+honolulu
+boise
+springfield
+indianapolis
+des moines
+topeka
+frankfort
+baton rouge
+augusta
+annapolis
+boston
+lansing
+st paul
+jackson
+jefferson city
+helena
+lincoln
+carson city
+concord
+trenton
+santa fe
+albany
+raleigh
+bismarck
+columbus
+oklahoma city
+salem
+harrisburg
+providence
+columbia
+pierre
+nashville
+austin
+salt lake city
+montpelier
+richmond
+olympia
+charleston
+madison
+cheyenne
+huntsville
+anchorage
+los angeles
+bridgeport
+wilmington
+jacksonville
+chicago
+wichita
+louisville
+new orleans
+portland
+baltimore
+detroit
+minneapolis
+kansas city
+billings
+omaha
+las vegas
+manchester
+newark
+albuquerque
+new york city
+charlotte
+fargo
+portland
+philadelphia
+charleston
+sioux falls
+houston
+burlington
+virginia beach
+seattle
+milwaukee
+######## US PLACES MISC LOWERCASE ########
+lethbridge
+medford
+ nyc$
+ new york city
+tasmania
+tucson
+tulsas
+seeley lake 
+montana
+ferndale wa
+pennsilvannia
+tulsa$
+bay area$
+san francisco
+salt lake
+######## COUNTRIES LOWERCASE ########
+australia
+new zealand
+canada
+iceland
+philippines
+norway
+germany$
+ south africa$
+united kingdom
+ireland
+ england$
+ france$
+ denmark$
+ chile$
+ georgia
+thailand
+vietnam
+cambodia
+malaysia
+^taiwan
+taiwan$
+singapore$
+ asia$
+ india$
+ europe$
+^canadian
+ nepal$
+######## x COUNTRY CODES  ######## todo
+ uk$
+ usa$
+ eu$
+ nz$
+ az$
+ ny$
+^nz 
+^uk 
+^nz
+######## x CITIES LOWERCASE ######## todo
+hong kong
+brisbane
+bangor
+melbourne
+moscow$
+vancouver
+ontario
+calgary
+gujarat
+ga ca$
+galt ca$
+puerto natales
+ mosco$
+cape town
+to china$
+toronto
+baroda$
+in tempe$
+kathmandu
+##### BAKING #####
+food color
+ icing
+in the oven
+##### OTHER #####
+food bank
+baby food
+########## FILETYPES ETC ##########
+ pdf$
+ ppt$
+ mlm$
+ mp3
+ www 
+^www
+.net
+.com
+& 39
+ m$
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+########## MISC TERMS ##########
+ llc$
+employee
+food recall
+brexit
+people make
+venn diagram
+affiliate$
+affiliate program
+menu and pictures with price
+argosons
+argonne
+apolo
+astroanuta
+krojeni
+countdawn
+ mordor
+ meme$
+umpqua
+^proximate
+ Covid
+what color
+wind chime
+bear deterrent
+bears away
+Mormon 
+Mormons 
+get tattoo
+watch tv
+memory foam
+make pillow
+Testimonials
+on DofE
+tariff code
+#### FINANCIAL ####
+bitcoin
+ethereum
+cryptocurrency
+crypto 
+ crypto
+buy now pay later
+BNPL
+monthly payments
+ stand for 
+toxic metal
+lawsuit
+can I donate
+inflation
+bioplastics
+biodegradable
+packaging
+discontinued
+get paid
+How much cash
+the bank
+MLM
+########## TRAVEL ##########
+on a plane$
+on a plane 
+ plane$
+ plane?$
+airport security
+cabin baggage
+in my luggage
+checked baggage
+cabin baggage
+at Customs
+ to declare
+ airport
+ TSA
+ in space
+to the Moon
+the ISS
+sailboat
+on a boat
+sailing trip
+space food
+astronauts 
+spaceship
+########## REGIONAL ##########
+in french$
+in german$
+in dutch$
+in spanish$
+of China
+from China
+########## PEOPLE ##########
+Oprah Winfrey
+ Oprah 
+Dr Jeff 
+########## HEALTH ##########
+trimester
+for babies
+for baby
+for a baby
+for diabetic
+can diabetic
+healthy for you
+blood sugar
+pregnancy
+pregnant
+ poop
+the womb
+my baby
+drinking too much
+autism
+autistic
+famine
+##### PET TERMS ####
+animal food
+hello pets
+hello kitty
+invertebrates
+ kitty$
+ kitten 
+kitten food
+puppies
+puppy food
+ puppy 
+^puppy 
+ puppy$
+yorkies
+french bulldog
+bulldogs
+ kittens
+ kitten$
+aquarium food
+animal food
+a bird
+a cat
+a dog
+can cats
+can dogs
+ dog's
+ dogs 
+ dog 
+ cat 
+pet food
+ car food
+my dog
+my cat
+for cats
+for dogs
+cat food
+catt food
+dog food
+dig food
+doh food
+petfresh
+feeding betta
+for pets$
+turtle food
+sugar glider
+reptile food
+orijen
+kibble
+earth animal
+bird food
+parrot food
+ parrots
+bird seed
+can birds
+ a conure
+firefly
+small fish
+mealworm
+goldfish
+feeding beta
+feeding fish
+ to fish$
+fish coral
+gold fish
+for feeder insects
+for fish$
+fish food
+^guppy
+guppies
+ salamander
+ guppy
+ minnow 
+hikari
+ krill 
+ krill$
+^k9
+ k9$
+ betta fish
+birdtrick
+red eye puffee
+puffee fish
+puffer fish
+ puffer 
+ puffee 
+ rabbit$
+ rabbits$
+ pig$
+ pigs$
+pellet flake
+ reef food
+pea puffer
+only natural pet
+ parrots$
+ for parrot
+ betta$
+bearded dragon
+daphnia fish
+tetra bloodworm
+blood worms
+bloodworm
+ ferret 
+^woof 
+leopard gecko
+ gecko 
+ geckos 
+^pets art 
+^pet 
+tree frog
+your dog
+ frog 
+guinea pig
+get worm
+can bears 
+attract bear
+Do worm
+attracts bear
+ bugs 
+weevil
+######  BRANDS  ######
+Nature's Variety
+Natures Variety
+Stella and Chewy
+stella & chewy
+Primal Pet Food
+Primal Pet
+Primal Freeze
+in Primal
+Dr Marty
+Grandma Lucy
+Dr Harvey
+Dr Jeff Rocky
+Rocky Mountain Vet
+Is primal 

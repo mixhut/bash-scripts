@@ -1,0 +1,58 @@
+######## COUNTRIES LOWERCASE ########
+australia
+new zealand
+canada
+iceland
+philippines
+norway
+germany$
+ south africa$
+united kingdom
+ireland
+ england$
+ france$
+ denmark$
+ chile$
+ georgia
+thailand
+vietnam
+cambodia
+malaysia
+^taiwan
+taiwan$
+singapore$
+ asia$
+ india$
+ europe$
+^canadian
+ nepal$
+######## x COUNTRY CODES  ######## todo
+ uk$
+ usa$
+ eu$
+ nz$
+ az$
+ ny$
+^nz 
+^uk 
+^nz
+######## x CITIES LOWERCASE ######## todo
+hong kong
+brisbane
+bangor
+melbourne
+moscow$
+vancouver
+ontario
+calgary
+gujarat
+ga ca$
+galt ca$
+puerto natales
+ mosco$
+cape town
+to china$
+toronto
+baroda$
+in tempe$
+kathmandu

@@ -1,0 +1,202 @@
+######## US STATES LOWERCASE ########
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+######## US STATECODES REGEX EOL ########
+ al$
+ ak$
+ az$
+ ar$
+ ca$
+ co$
+ ct$
+ de$
+ fl$
+ ga$
+ hi$
+ id$
+ il$
+ in$
+ ia$
+ ks$
+ ky$
+ la$
+ me$
+ md$
+ ma$
+ mi$
+ mn$
+ ms$
+ mo$
+ mt$
+ ne$
+ nv$
+ nh$
+ nj$
+ nm$
+ ny$
+ nc$
+ nd$
+ oh$
+ ok$
+ or$
+ pa$
+ ri$
+ sc$
+ sd$
+ tn$
+ tx$
+ ut$
+ vt$
+ va$
+ wa$
+ wv$
+ wi$
+ wy$
+######## US CITIES LOWERCASE ########
+montgomery
+juneau
+phoenix
+little rock
+sacramento
+denver
+hartford
+dover
+tallahassee
+atlanta
+honolulu
+boise
+springfield
+indianapolis
+des moines
+topeka
+frankfort
+baton rouge
+augusta
+annapolis
+boston
+lansing
+st paul
+jackson
+jefferson city
+helena
+lincoln
+carson city
+concord
+trenton
+santa fe
+albany
+raleigh
+bismarck
+columbus
+oklahoma city
+salem
+harrisburg
+providence
+columbia
+pierre
+nashville
+austin
+salt lake city
+montpelier
+richmond
+olympia
+charleston
+madison
+cheyenne
+huntsville
+anchorage
+los angeles
+bridgeport
+wilmington
+jacksonville
+chicago
+wichita
+louisville
+new orleans
+portland
+baltimore
+detroit
+minneapolis
+kansas city
+billings
+omaha
+las vegas
+manchester
+newark
+albuquerque
+new york city
+charlotte
+fargo
+portland
+philadelphia
+charleston
+sioux falls
+houston
+burlington
+virginia beach
+seattle
+milwaukee
+######## US PLACES MISC LOWERCASE ########
+lethbridge
+medford
+ nyc$
+ new york city
+tasmania
+tucson
+tulsas
+seeley lake 
+montana
+ferndale wa
+pennsilvannia
+tulsa$
+bay area$
+san francisco
+salt lake
